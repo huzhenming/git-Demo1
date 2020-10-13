@@ -3,5 +3,6 @@ public class TestMain {
 
         System.out.println("nihao");
         System.out.println("hello master");
+        System.out.println("骚啊");
     }
 }
